@@ -10,5 +10,12 @@ public class Client {
 
     public static void main(String[] args) {
         System.out.println("hello world");
+
+        //language=JSON
+        String str="{\"name\":\"tuyongjian\"}";
+
+        String s = "test";
+        if (s != null) {
+        }
     }
 }

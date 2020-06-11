@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 
 /**
- * @Description
+ * @Description bio client
  * @Classname TimeClient
  * @Date 2019/6/11 16:11
  * @Created by tuyongjian
